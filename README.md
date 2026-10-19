@@ -1,52 +1,62 @@
-# Muhammed Faheem AP — Portfolio
+# Muhammed Faheem AP
 
-Personal cybersecurity portfolio featuring practical projects, technical skills and contact details.
+### Cybersecurity Student · Aspiring VAPT Analyst · Web Developer
 
-**Live portfolio:** https://faheemapofficial.github.io/portfolio/
+Building practical skills in cybersecurity and creating projects that turn learning into hands-on experience.
 
-## Hosting on GitHub Pages
+**[View My Portfolio](https://faheemapofficial.github.io/portfolio/) · [Explore My GitHub](https://github.com/faheemapofficial)**
 
-This is a static website. No account keys, database, build tools or paid hosting are required.
+---
 
-1. Open this repository’s **Settings → Pages**.
-2. Set **Source** to **Deploy from a branch**.
-3. Select **main** and **/ (root)**, then Save.
-4. In **Actions**, wait for **pages build and deployment** to complete.
-5. Visit the live portfolio above. Enable **Enforce HTTPS** if the option is available.
+## About Me
 
-Changes pushed to main deploy automatically with this configuration. Keep index.html in the repository root. The published URL includes /portfolio/, so asset links are relative.
+I’m Muhammed Faheem AP, a cybersecurity student and web developer from Malappuram, Kerala, India.
 
-## Local preview
+I completed OCSA training at **Offenso Hackers Academy**, where I studied networking, Linux, vulnerability assessment and penetration testing.
 
-```sh
-git clone https://github.com/faheemapofficial/portfolio.git
-cd portfolio
-python3 -m http.server 8000
-```
+My goal is to become a **VAPT analyst and penetration tester**. I’m developing my skills through authorized labs, security challenges and personal projects, with a focus on understanding vulnerabilities and communicating practical solutions.
 
-Open http://localhost:8000. No npm install is needed.
+## Featured Projects
 
-## Files and editing
+| Project | Overview |
+| --- | --- |
+| **[LinuxCMD](https://github.com/faheemapofficial/Linux-cmd)** | A browser-based platform for learning Linux commands through interactive practice, challenges and quizzes. |
+| **[Web-NMAP](https://github.com/faheemapofficial/Web-NMAP)** | A network discovery project built around Nmap to explore hosts, ports and services within authorized environments. |
+| **[Wordlist Forge](https://github.com/faheemapofficial/Wordlist-Forge)** | A wordlist creation project for learning about password patterns and supporting authorized security testing. |
 
-- `index.html`: content, project links, contact details and search/social metadata.
-- `assets/styles.css`: responsive design, colors and reduced-motion support.
-- `assets/main.js`: accessible mobile navigation.
-- `assets/portrait.webp`: optimized original portrait; no AI changes to the face.
-- `assets/favicon.svg`: browser icon.
-- `404.html`: custom missing-page screen.
-- `sitemap.xml`: canonical portfolio URL for search engines.
-- `.nojekyll`: serves the site as plain static files.
+## Skills & Tools
 
-To replace the photo, export a WebP and update its dimensions and alt text in index.html. To change the site URL, update the canonical URL, Open Graph URL/image, sitemap and 404 home link together.
+| Area | Knowledge and Practice |
+| --- | --- |
+| **Web Security** | OWASP Top 10, vulnerability assessment fundamentals |
+| **Networking** | TCP/IP, DNS, HTTP/HTTPS, ports and services |
+| **Linux** | Kali Linux, command-line navigation, file permissions |
+| **Security Tools** | Nmap, Wireshark, Metasploit, Hydra, John the Ripper |
+| **Web Development** | HTML, CSS, JavaScript |
+| **Development Tools** | Git and GitHub |
 
-## Custom domain (optional)
+## Training & Practice
 
-Buy a domain from a registrar, then follow the current GitHub Pages custom-domain instructions: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+**OCSA — Offenso Hackers Academy, Calicut**  
+Completed training in cybersecurity fundamentals, networking, Linux and VAPT.
 
-Add it in Settings → Pages and configure the registrar’s DNS as instructed. Wait for verification and TLS before enabling HTTPS. Update the URLs listed above after the domain works. A purchased domain is optional; the existing HTTPS URL works without one.
+I continue learning through **TryHackMe, OverTheWire Bandit, PortSwigger Web Security Academy and HTB Academy**, applying concepts through practical exercises.
 
-## Verification
+## Current Focus
 
-Check navigation at phone and desktop widths, keyboard focus and Escape to close the mobile menu. Confirm project links and email details after editing. External Google Fonts require an internet connection; system font fallbacks remain available.
+- Strengthening Linux and networking fundamentals.
+- Developing a structured approach to web application security testing.
+- Improving project documentation and security reporting.
+- Building useful cybersecurity and web development projects.
 
-All security testing represented here belongs in authorized labs or explicitly permitted scopes.
+## Connect With Me
+
+I’m interested in beginner-friendly VAPT internships, practical learning opportunities and project collaborations.
+
+**Portfolio:** [faheemapofficial.github.io/portfolio](https://faheemapofficial.github.io/portfolio/)  
+**GitHub:** [github.com/faheemapofficial](https://github.com/faheemapofficial)  
+**Location:** Malappuram, Kerala, India
+
+---
+
+*Committed to ethical security testing within authorized environments and explicitly permitted scopes.*
